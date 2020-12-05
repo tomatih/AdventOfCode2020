@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 import re
 
-# 122 is too high
-
 out = 0
 
 def hight_check(a):
