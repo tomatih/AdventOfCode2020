@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 memory = dict()
-mask = str()
 floating = list()
 
 def do_aflip(adr, pos_i):
